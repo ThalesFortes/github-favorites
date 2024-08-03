@@ -15,20 +15,7 @@ O GitHub Favorites foi feito para treinar e exercitar os conceitos de SPA page e
 ## Layout web
 
 ###  Home Page
-![Web 1](https://github.com/ThalesFortes/SPAPage/blob/main/readme_imgs/HomePageWeb.png)
-
-###  Second and Third pages
-![Web 1](https://github.com/ThalesFortes/SPAPage/blob/main/readme_imgs/ExplorationAndUniversePageWeb.png)
-
-
-## Layout mobile
-
-###  Home Page
-![Web 1](https://github.com/ThalesFortes/SPAPage/blob/main/readme_imgs/HomePageMobile.png)
-
-###  Second and Third pages
-![Web 1](https://github.com/ThalesFortes/SPAPage/blob/main/readme_imgs/ExplorationAndUniversePageMobile.png)
-
+![Web 1](https://github.com/ThalesFortes/github-favorites/blob/main/github%20favorites.png)
 
 # Tecnologias utilizadas
 
